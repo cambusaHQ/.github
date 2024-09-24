@@ -9,7 +9,7 @@ Our mission is to simplify web development by providing robust frameworks and to
 
 ## Repositories
 
-### [Cambusa Framework](https://github.com/cambusaHQ/cambusa)
+### [Cambusa Framework](https://github.com/cambusaHQ/core)
 A high-performance Node.js framework built on Bun and ElysiaJS, designed to streamline web development with modular architecture and powerful CLI tools.
 
 ### [Cambusa CLI](https://github.com/cambusaHQ/cambusa-cli)
