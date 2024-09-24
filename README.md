@@ -20,4 +20,4 @@ We welcome contributions from everyone! Whether you're fixing bugs, improving do
 
 ## Code of Conduct
 
-We strive to maintain a welcoming and inclusive community. Please read our [Code of Conduct](https://github.com/cambusaHQ/core/blob/main/CODE_OF_CONDUCT.md)(https://github.com/cambusaHQ/core/blob/main/CODE_OF_CONDUCT.md) before participating.
+We strive to maintain a welcoming and inclusive community. Please read our [Code of Conduct](https://github.com/cambusaHQ/core/blob/main/CODE_OF_CONDUCT.md) before participating.
